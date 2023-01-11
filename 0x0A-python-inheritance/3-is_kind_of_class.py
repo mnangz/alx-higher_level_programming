@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+""" Module that returns true if the object is an instance of the class
+"""
+
+
 def is_kind_of_class(obj, a_class):
     """ Function that returns True/False if obj is an instance of a_class
     Args:

@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+""" Module that prints the list, but sorted
+"""
+
+
 class MyList(list):
     """ Class that inherits the attributes references of class list
     Args:
