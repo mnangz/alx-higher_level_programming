@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Module that returns area of BaseGeometry documentation                                                                                                                      
+""" Module that returns area of BaseGeometry
 """
 
 
